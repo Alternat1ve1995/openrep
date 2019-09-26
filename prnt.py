@@ -1,2 +1,0 @@
-def prnt():
-  print('works')
