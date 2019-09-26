@@ -1,2 +1,2 @@
 def prnt():
-  print('prnt')
+  print('works')
